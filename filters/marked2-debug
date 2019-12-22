@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+cat > $HOME/marked2.log  
+cat $HOME/marked2.log
+
+
+
